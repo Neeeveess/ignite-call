@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -35,7 +35,6 @@
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.1.0",
     "@types/cookie": "^0.6.0",
-    "eslint-plugin-simple-import-sort": "^10.0.0",
     "prisma": "^5.8.0"
   }
 }
