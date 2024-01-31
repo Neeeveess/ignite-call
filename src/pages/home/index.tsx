@@ -15,7 +15,7 @@ export default function Home() {
       <Container>
         <Hero>
           <Heading as="h1" size={'4xl'}>
-            Agendamento desbomplicado
+            Agendamento descomplicado
           </Heading>
           <Text size={'xl'}>
             Conecte seu calendário e permita que as pessoas marquem agendamentos
