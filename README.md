@@ -26,6 +26,7 @@ com ele algum horário, e já marca na agenda do Google automáticamente.
  - React
  - Next 14
  - Typescript
+ - Node
  - Prisma
  - Design System
  - React-query
